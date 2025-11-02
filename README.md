@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Olá, sou o Raian Pierre. Atualmente sou estudante de graduação em Ciência da Computação na UFF.<br>Hoje estagio na BNDES em análise de sistemas. Minha previsão de formatura é 12/2025.
+<br>Olá, sou o Raian Pierre. Atualmente sou estudante de graduação em Ciência da Computação na UFF.<br>Hoje estagio na BNDES em análise de sistemas. Minha previsão de formatura é 07/2026.
 
 
 # 💻 Tech Stack:
